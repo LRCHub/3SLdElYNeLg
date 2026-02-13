@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "サンクチュアリ",
+  "base_artist": "HIKIGANESOUND",
+  "createdAt": "2026-02-13T02:22:37.689152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サンクチュアリ",
+      "artist": "KAMIJO",
+      "has_synced": true,
+      "path": "select/01_サンクチュアリ_KAMIJO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サンクチュアリ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/02_サンクチュアリ_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サンクチュアリ",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/03_サンクチュアリ_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サンクチュアリ",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/04_サンクチュアリ_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サンクチュアリ",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/05_サンクチュアリ_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "14.サンクチュアリ(オープニング)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/06_14.サンクチュアリ(オープニング)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サンクチュアリ",
+      "artist": "夏川りみ",
+      "has_synced": false,
+      "path": "select/07_サンクチュアリ_夏川りみ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サンクチュアリ・アリス",
+      "artist": "悠木碧",
+      "has_synced": false,
+      "path": "select/08_サンクチュアリ・アリス_悠木碧.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サンクチュアリ",
+      "artist": "悠木碧",
+      "has_synced": false,
+      "path": "select/09_サンクチュアリ_悠木碧.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サンクチュアリ・アリス",
+      "artist": "新居昭乃",
+      "has_synced": false,
+      "path": "select/10_サンクチュアリ・アリス_新居昭乃.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サンクチュアリ",
+      "artist": "Da-iCE",
+      "has_synced": false,
+      "path": "select/11_サンクチュアリ_Da-iCE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サンクチュアリ (feat. 伝説建設)",
+      "artist": "HIKIGANESOUND",
+      "has_synced": false,
+      "path": "select/pl_01_サンクチュアリ_(feat._伝説建設)_HIKIGANESOUND.txt"
+    }
+  ]
+}
